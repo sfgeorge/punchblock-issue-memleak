@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'adhearsion'
-gem 'punchblock'
+gem 'punchblock', :git => 'git@github.com:adhearsion/punchblock.git', :branch => 'feature/dtmf_recognizer_leak'
 gem 'adhearsion-asr'
 gem 'adhearsion-asterisk'
