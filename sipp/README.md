@@ -54,7 +54,7 @@ After 1700 calls and draining to 0:
 
 Under JRuby, I began seeing Full GCs occur somewhere after 700 calls.  This much is normal...
 
-...But their frequency increases greatly over time.  Additionally, the amount of memory reclaimed by a Full GC operation became less and less over time.  [Because the maximum memory heap size was capped](environments/jruby-1.7.4/README.md#environment-variables), the system eventually completely failed to accept and operate calls **after roughly 1700 calls**.
+...But their frequency increases greatly over time.  Additionally, the amount of memory reclaimed by a Full GC operation became less and less over time.  [Because the maximum memory heap size was capped](/environments/jruby-1.7.4/README.md#environment-variables), the system eventually completely failed to accept and operate calls **after roughly 1700 calls**.
 
 Here's a partial snippet from the captured JVM GC log at /tmp/ahn-gc-log:
 
