@@ -14,7 +14,7 @@
 * Breaking change: [Using git-bisect](https://mojolingo.com/blog/2013/using-git-bisect-to-troubleshoot-ruby-gems/), we were able to pin-point this to adhearsion/punchblock@f939eca  
 * Latest version tested: Tested and confirmed to still be an issue in Punchblock 2.5.0
 * How to reproduce issue:  See [sipp/README.md](sipp/README.md)
-* Official issue report: adhearsion/punchblock#217
+* Official issue report: https://github.com/adhearsion/punchblock/issues/217
 
 ### Contributors
 
