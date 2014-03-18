@@ -32,6 +32,10 @@
 * rvm: rvm 1.25.14 (stable)
 * OS: CentOS release 6.3 (Final) x86_64
 * Telephony Platform: Asterisk 1.8.13.0
+* Application state
+   * Punchblock branch: feature/dtmf_recognizer_leak
+   * Punchblock sha1: adhearsion/punchblock@afb3c6b
+   * punchblock-issue-memleak sha1: ccb5533
 
 
 ### Monitoring performed

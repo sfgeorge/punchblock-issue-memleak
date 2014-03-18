@@ -9,8 +9,9 @@
 
 ### Defect details
 * Occurs under JRuby as well as C-Ruby.  Rubies and environments tested:
-   * [JRuby 1.7.4 environment details](environments/jruby-1.7.4/README.md)
-   * [CRuby 1.9.3 environment details](environments/ruby-1.9.3-p392/README.md)
+  1. Punchblock `feature/dtmf_recognizer_leak` @ adhearsion/punchblock@afb3c6b
+       * [JRuby 1.7.4 environment details](environments/jruby-1.7.4/README.md)
+       * [CRuby 1.9.3 environment details](environments/ruby-1.9.3-p392/README.md)
 * Breaking change: [Using git-bisect](https://mojolingo.com/blog/2013/using-git-bisect-to-troubleshoot-ruby-gems/), we were able to pin-point this to adhearsion/punchblock@f939eca  
 * Latest version tested: Tested and confirmed to still be an issue in Punchblock 2.5.0
 * How to reproduce issue:  See [sipp/README.md](sipp/README.md)
