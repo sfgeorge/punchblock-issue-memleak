@@ -39,11 +39,11 @@ The following environment variables were set for the running ahn (java) process.
 
 ### Other software dependencies
 
-rvm: rvm 1.25.14 (stable)
-JRuby: jruby-1.7.4
-Java: jdk1.7.0_25 (server-jre-7u25-linux-x64.gz)
-OS: CentOS release 6.3 (Final) x86_64
-Telephony Platform: Asterisk 1.8.13.0
+* rvm: rvm 1.25.14 (stable)
+* JRuby: jruby-1.7.4
+* Java: jdk1.7.0_25 (server-jre-7u25-linux-x64.gz)
+* OS: CentOS release 6.3 (Final) x86_64
+* Telephony Platform: Asterisk 1.8.13.0
 
 
 ### Monitoring performed

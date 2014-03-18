@@ -29,9 +29,9 @@
 
 ### Other software dependencies
 
-rvm: rvm 1.25.14 (stable)
-OS: CentOS release 6.3 (Final) x86_64
-Telephony Platform: Asterisk 1.8.13.0
+* rvm: rvm 1.25.14 (stable)
+* OS: CentOS release 6.3 (Final) x86_64
+* Telephony Platform: Asterisk 1.8.13.0
 
 
 ### Monitoring performed
