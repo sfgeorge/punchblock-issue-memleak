@@ -3,7 +3,7 @@
 
 ### Synopsis
 
-A basic User Agent Client (UAC) load test that hangs up 3 seconds after establish a call with Asterisk/Adhearsion.
+A basic User Agent Client (UAC) load test that hangs up 3 seconds after establishing a call with Asterisk/Adhearsion.
 
 
 ### Tips
